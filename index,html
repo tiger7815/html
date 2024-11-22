@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Vimeo Video</title>
+</head>
+<body>
+    <h1>Embedded Vimeo Video</h1>
+    <iframe 
+        src="https://player.vimeo.com/video/1028342588?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+        width="640" 
+        height="360" 
+        frameborder="0" 
+        allow="autoplay; fullscreen; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</body>
+</html>
